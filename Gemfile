@@ -26,3 +26,6 @@ gem "sass"
 
 # Use HAML instead of ERB; its faster
 gem "haml"
+
+# Use nokogiri to parse html quickly instead of doing it client side
+gem "nokogiri"
